@@ -1,40 +1,60 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=0000CD&random=true&width=320&lines=%E2%9E%9C+Welcome+to+my+profile!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Vinícius;I'm+21+years+old;I+from+Brazil;I+Student+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=madeinpdr&show_icons=true&count_private=true&hide_border=true&title_color=0000CD&icon_color=0000CD&text_color=0000CD&bg_color=0d1117" alt="Pedro Vinícius github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeinpdr&layout=compact&hide_border=true&title_color=0000CD&text_color=0000CD&bg_color=0d1117" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
-<p align="center">
-  <img align="right" width="500" alt="PDR-icon" src="https://media.discordapp.net/attachments/1242373727799218186/1279648323493429291/aiz_gif.gif?ex=66d534df&is=66d3e35f&hm=553de4a8ac83d53d0801ef49eaf4c8d34e21a1d9f174af76150ef6e87984fda4&=)" />
-</p>
+<img align="center" alt="" src="imagem futura ">
+
+#
+
+<p align="center">Estudante de Engenharia de Software na Faculdade Uniceplac de Brasília. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras e estou aberto para propostas de emprego.
+  
+#
+
+<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1242373727799218186/1279662149681025025/aiz_gif.gif?ex=66d541bf&is=66d3f03f&hm=d3cff9e7b395788ea61760bb8b24002444d78c229339bbb12d23ad0a5fa735f3&">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:pedrolek721@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedro-vin%C3%ADcius-45269031a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/uepdrx/)
+
+
+<h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  <a href="https://www.instagram.com/uepdrx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "mailto:cmp.1a.pedrolek721@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-vin%C3%ADcius-45269031a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="25" alt="php logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" height="25" alt="php logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="25" alt="photoshop logo"  />
 </div>
 
- ### Main Skills:
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
-### Studying in this moment:
-<div style="display: incline_block"><br>
-  <img align="center" alt="PDR-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="PDR-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-	<img align="center" alt="PDR-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="PDR-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="PDR-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="PDR-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="PDR-aftereffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-  <img align="center" alt="PDR-premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" />
-  <img align="center" alt="PDR-premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+#
+
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madeinpdr&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/madeinpdr/github-readme-stats">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeinpdr&layout=compact&hide_title=false&title_color=FF00F6&border_color=561760&text_color=FF00F6&bg_color=000" />
+  </a>
 </div>
 
-            
-          
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madeinpdr/madeinpdr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madeinpdr/madeinpdr/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/madeinpdr/madeinpdr/output/github-contribution-grid-snake.svg">
+</picture>
