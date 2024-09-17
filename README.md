@@ -12,7 +12,7 @@
   
 #
 
-<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1136773727338631262/1283282737410740224/aiz_gif.gif?ex=66e26dae&is=66e11c2e&hm=25bfe19fb27f3c0a438d9c576a199f572272f6e296523afc4eae358e0142c35c&">
+<img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/d9/09/c1/d909c1dea25eecc30f4f9932227c048d.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -44,7 +44,6 @@
   <h3>* GitHub Stats *</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madeinpdr&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=36&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=8&border_color=561760&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
   <a href="https://github.com/madeinpdr/github-readme-stats">
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeinpdr&layout=compact&hide_title=false&title_color=FF00F6&border_color=561760&text_color=FF00F6&bg_color=000" />
   </a>
